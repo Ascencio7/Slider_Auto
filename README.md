@@ -7,7 +7,7 @@
 **Carrusel con HTML y CSS, diseño puro y animado con CSS.**
 
 <picture>
-  <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/050/392/573/original/nelson-tiapa-gif-salto.gif?1654733384" width="200"/>
+  <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/050/392/573/original/nelson-tiapa-gif-salto.gif?1654733384" width="300" height="300"/>
 </picture>
 
 Este repositorio contiene una **plantilla de carrusel** con **HTML y CSS**, ideal para reforzar el aprendizaje de animaciones y maquetado sin JavaScript.
