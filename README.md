@@ -7,7 +7,7 @@
 **Carrusel con HTML y CSS, diseño puro y animado con CSS.**
 
 <picture>
-  <img align="right" src=https://cdna.artstation.com/p/assets/images/images/050/392/584/original/nelson-tiapa-gif-celebracion-1.gif?1654733402?raw=true" width="200"/>
+  <img align="right" src="https://cdna.artstation.com/p/assets/images/images/050/392/584/original/nelson-tiapa-gif-celebracion-1.gif?1654733402?raw=true" width="200"/>
 </picture>
 
 
