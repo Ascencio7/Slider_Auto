@@ -4,43 +4,44 @@
 
 ## 🐍 Proyecto: Carrusel Activo Animado
 
-**Carrusel con HTML y CSS.**
+**Carrusel con HTML y CSS, diseño puro y animado con CSS.**
 
 <picture>
-  <img align="right" src=https://cdnb.artstation.com/p/assets/images/images/050/392/573/original/nelson-tiapa-gif-salto.gif?1654733384?raw=true" width="200"/>
+  <img align="right" src="https://cdnb.artstation.com/p/assets/images/images/050/392/573/original/nelson-tiapa-gif-salto.gif?1654733384" width="200"/>
 </picture>
 
+Este repositorio contiene una **plantilla de carrusel** con **HTML y CSS**, ideal para reforzar el aprendizaje de animaciones y maquetado sin JavaScript.
 
-Este repositorio contiene **plantilla de carrusel con HTML y CSS** que facilita la compresión de diseño puro y animado con CSS.
-
-✅ Plantilla cond divs para el manejo de imagenes.
-✅ Uso de variables en CSS.
-✅ Carpetas organizadas.
+✅ Uso de `divs` para manejar imágenes.  
+✅ Uso de **variables CSS** para colores y control de estilo.  
+✅ Estructura de carpetas organizada para práctica ordenada.
 
 ---
 
 ## 💡 ¿Qué encontrarás aquí?
 
-- **Código comentado paso a paso** para comprender qué hace cada línea.
-- Código limpio, ordenado y fácil de entender.
+- **Código comentado paso a paso** para entender cada línea.  
+- Código limpio, ordenado y fácil de seguir.  
+- Uso de animaciones y transiciones con CSS puro.
 
 ---
 
 ## 🎯 Propósito
 
-Este proyecto está diseñado como práctica de **aprendizaje personal de HTML y CSS**, enfocado en entender el maquetado de diseño con HTML y CSS y aplicar animaciones.
+Este proyecto está diseñado como **práctica de aprendizaje personal**, enfocado en mejorar habilidades de maquetado con HTML y CSS, y comprender animaciones básicas para interfaces dinámicas.
 
 ---
 
 ## ✨ Autor
 
-Vladimir Ascencio – Desarrollador en aprendizaje continuo 🚀
-¡Gracias por visitar este proyecto! 🤖😄
+**Vladimir Ascencio** – Desarrollador en aprendizaje continuo 🚀
 
+Gracias por visitar este proyecto, cualquier feedback es bienvenido 🤖✨
 
 ---
 
-<h3 align="left">🔎 Contactos</h3>
+<h3 align="left">🔎 Contacto</h3>
+
 <table align="center">
   <tr>
     <td align="center">
@@ -66,11 +67,11 @@ Vladimir Ascencio – Desarrollador en aprendizaje continuo 🚀
   </tr>
 </table>
 
-<br><br>
+<br>
 
-  ---
+---
 
-  <!-- Footer -->
+<!-- Footer -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" alt="footer waving" />
 </div>
